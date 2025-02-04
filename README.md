@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### I'm a Monitoring and Evaluation Officer currently working on Neglected Tropical Diseases with Helen Keller Intl. I focus on survey development, data collection, and analysis. 
+#### I'm a Monitoring and Evaluation Officer currently working on Neglected Tropical Diseases with Helen Keller Intl. I focus on survey development, data collection, and analysis. 
 
 #### I work mostly in R and SQL, and I'm looking to strengthen my analytical skills with new R packages. I eventually plan to learn more Python to strengthen my understanding of machine learning techniques.
+
+#### Ask me about all things global health and M&E! I love discussing how we can leverage data science to improve measurement and enhance program outcomes.
