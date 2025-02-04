@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## I'm a Monitoring and Evaluation Officer currently working on Neglected Tropical Diseases with Helen Keller Intl. I focus on survey development, data collection, and analysis. 
+
+## I work mostly in R and SQL, and I'm looking to strengthen my analytical skills with new R packages. I eventually plan to learn more Python to strengthen my understanding of machine learning techniques.
